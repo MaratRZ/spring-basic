@@ -10,6 +10,7 @@
     <version>1.0</version>
     <modules>
         <module>homework01</module>
+        <module>homework03</module>
     </modules>
 
     <properties>
